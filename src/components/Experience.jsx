@@ -6,12 +6,17 @@ export default function Experience() {
       <div className="relative max-w-1xl mx-auto">
 
         {/* EXPERIENCE LABEL */}
-        {/* EXPERIENCE LABEL */}
-        <div className="hidden md:flex absolute left-1/2 -translate-x-1/2 -top-4 z-10">
-          <span className="text-white text-3xl font-bold mb-10 -translate-y-15">
-            Experience
-          </span>
-        </div>
+       <div  className="    absolute z-10
+    left-4 top-4
+    md:left-1/2 md:-translate-x-1/2 md:-top-4
+    flex
+  "
+>
+  <span className="text-white text-3xl font-bold">
+    Experience
+  </span>
+</div>
+
 
         {/* Center vertical line */}
         <div className="hidden md:block absolute left-1/2 top-10 h-[calc(100%-2.5rem)] w-1 -translate-x-1/2 bg-white rounded-full" />
