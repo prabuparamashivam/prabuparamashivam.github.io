@@ -27,12 +27,9 @@ export default function Hero() {
     style={{ backgroundColor: "#28282b", borderRadius: "30px" }}
   >
     <p className="text-white text-lg leading-relaxed text-Justify ">
-      A dynamic Software Engineer based in Chennai, India, on a mission to revolutionize
-      the tech landscape. With a profound knack for .NET, Python, and cutting-edge web
-      frameworks, I specialize in orchestrating seamless IoT communication and optimizing
-      databases. Dive into my portfolio to explore a journey marked by innovation,
-      project mastery, and a passion for pushing the boundaries of technology. Let's
-      embark on this exciting expedition together! 🌐💻✨
+      Senior Azure & .NET Developer with 5+ years of experience in backend development, cloud platforms, and event-driven systems. 
+      Skilled in building high-performance APIs, Azure Function Apps, Event Hub integrations, Service Bus messaging, Redis caching, SQL optimization, and Kubernetes deployments.
+      Passionate about creating scalable, secure, and maintainable solutions that deliver measurable business impact.
     </p>
   </div>
 </div>
